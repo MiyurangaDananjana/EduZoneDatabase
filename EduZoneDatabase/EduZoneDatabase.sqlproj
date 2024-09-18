@@ -66,4 +66,7 @@
     <Build Include="dbo\Tables\POST.sql" />
     <Build Include="dbo\Tables\USER_DETAILS.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="EduZoneDatabase.publish.xml" />
+  </ItemGroup>
 </Project>
